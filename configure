@@ -14556,7 +14556,7 @@ int foo = IPV6_FLOWLABEL_MGR;
 _ACEOF
 if ac_fn_c_try_compile "$LINENO"
 then :
-  iperf3_cv_header_flowlabel=yes
+  iperf3_cv_header_flowlabel=no
 else $as_nop
   iperf3_cv_header_flowlabel=no
 fi
